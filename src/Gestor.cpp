@@ -1,10 +1,9 @@
 #include <iostream>
-
-using namespace std;
+#include "Gestor.h"
 
 int main(){
 	return 0;
-}#include "Gestor.h"
+}
 
 Gestor::Gestor()
 {
