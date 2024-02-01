@@ -1,0 +1,4 @@
+Paito               Pedro               Solange             120010032622F  Mocambicana         Maputo              Banco               1234  
+Tony                Antonio             Maria               123003031256B  Mocambicana         Nampula             MaleBank            5678  
+Ermy                Melly               Miambo              12100101912F   Mocambicana         Maputo              Familia             9101
+Antonio             Antonio             Maria               120010012232C  Mocambicana         Maputo              Empregado_Stv       3210  

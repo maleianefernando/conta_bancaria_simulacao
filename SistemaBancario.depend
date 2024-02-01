@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1685527520 source:e:\farquivos\informática\didático\programming\poo\c++\c++projects\projeto final laboratorio\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string.h>
+	<time.h>
+	<cstdlib>
+	<locale>
+	"Conta.h"
+	"Funcionario.h"
+	"PCA.h"
+	"Gestor.h"
+	"Cliente.h"
+
+1685695622 e:\farquivos\informática\didático\programming\poo\c++\c++projects\projeto final laboratorio\conta.h
+	"Identificacao.h"
+
+1685516691 e:\farquivos\informática\didático\programming\poo\c++\c++projects\projeto final laboratorio\identificacao.h
+
+1685527727 e:\farquivos\informática\didático\programming\poo\c++\c++projects\projeto final laboratorio\funcionario.h
+
+1685352249 source:d:\informatica\2 ano\poo\projeto final laboratorio\main.cpp
+	<iostream>
+	<string>
+	<time.h>
+	<cstdlib>
+	<locale>
+	"Conta.h"
+	"Funcionario.h"
+
+1685454034 d:\informatica\2 ano\poo\projeto final laboratorio\conta.h
+	"Identificacao.h"
+
+1685452415 d:\informatica\2 ano\poo\projeto final laboratorio\identificacao.h
+
+1685454967 d:\informatica\2 ano\poo\projeto final laboratorio\funcionario.h
+
+1685521167 e:\farquivos\informática\didático\programming\poo\c++\c++projects\projeto final laboratorio\pca.h
+	"Funcionario.h"
+
+1685528847 e:\farquivos\informática\didático\programming\poo\c++\c++projects\projeto final laboratorio\gestor.h
+	"Cliente.h"
+
+1685695918 e:\farquivos\informática\didático\programming\poo\c++\c++projects\projeto final laboratorio\cliente.h
+
